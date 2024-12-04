@@ -25,7 +25,6 @@ Example:
         [{ 'bars' : 6}, {'packs' : 12}, {'carton' : 1}],
     ]    
 '''
-
 import json
 from packaging import parse_packaging, calc_total_units, get_unit
 packages = []
