@@ -22,4 +22,7 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-Something I found challenging was handling edge cases in the input which is where I learned to use split and strip. I also have to work on double checking my code before running it because most of the time when the code doesn't run, its due to a simple missing comma or spelling error. i then automatically freak out about my code because realizing it's just a small issue.
+Something I found challenging was handling edge cases in the input which is where I learned to use split and strip. 
+I also have to work on double checking my code before running it because most of the time when the code doesn't run, 
+its due to a simple missing comma or spelling error. i then automatically freak out about my code because realizing it's 
+just a small issue.
